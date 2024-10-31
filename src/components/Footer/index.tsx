@@ -3,7 +3,7 @@ import { GridContainer } from "../GridContainer";
 import Image from "next/image";
 
 export function Footer() {
-  const phoneNumber = "+558494662548";
+  const phoneNumber = "+5584991417880";
   const message = "Olá, Gostaria de saber mais sobre sua consulta!";
   const whatsappLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
   return (
@@ -42,7 +42,7 @@ export function Footer() {
                     alt="WhatsApp logo"
                   />
                   <p className="text-[#923F48] font-montserrat text-base font-semibold">
-                    (84) 9466-2548
+                    (84) 99141-7880
                   </p>
                   </div>
                 </Link>
