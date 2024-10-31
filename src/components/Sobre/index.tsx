@@ -24,7 +24,7 @@ export function Sobre(){
           </div>
           {/* Foto*/}
           <div className="flex mt-8">
-            <div className="flex flex-col items-center" data-aos="fade-right">
+            <div className="flex flex-col items-center" data-aos="fade-up">
               <Image
                 src='/sergiana.svg'
                 width={261}
@@ -37,7 +37,7 @@ export function Sobre(){
               </div>
 
             </div>
-            <div className="flex flex-col items-center" data-aos="fade-left">
+            <div className="flex flex-col items-center" data-aos="fade-up">
               <Image
                 src='/diana.svg'
                 width={261}

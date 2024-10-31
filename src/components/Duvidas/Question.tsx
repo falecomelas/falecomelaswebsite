@@ -25,7 +25,7 @@ export function Question({title, response}: QuestionProps){
         }
       </button>
       {
-        open && <p className="mt-2 text-gray-600 leading-normal pr-12">{response}</p>
+        open && <p className="mt-2 text-gray-600 leading-7 pr-12 ">{response}</p>
       }
       
     </div>

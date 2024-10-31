@@ -83,7 +83,7 @@ export function Sintomas2(){
           <Card className="w-full max-w-[386px] h-[209px] flex justify-center items-center relative mb-10 xl:mb-0 bg-back-card rounded-[18px]" data-aos="zoom-in-up">
               <CardHeader className="px-7 py-2 absolute -top-[-20px] ">
                 <CardTitle>
-                  <h4 className="text-xl text-white font-medium">Violência Doméstica ou Abuso</h4>
+                  <h4 className="text-xl text-white font-medium text-center">Violência Doméstica ou Abuso</h4>
                 </CardTitle>
               
               </CardHeader>
