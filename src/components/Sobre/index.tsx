@@ -7,7 +7,7 @@ import { useAos } from "@/app/hooks/useAos";
  
 export function Sobre(){
   useAos();
-  const phoneNumber = "+5584991417880";
+  const phoneNumber = "+5521974335405";
   const message = "Olá, Gostaria de saber mais sobre sua consulta!";
   const whatsappLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
   return(
